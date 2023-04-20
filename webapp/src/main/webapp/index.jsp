@@ -11,31 +11,56 @@
 <body>
     <div class="grid-2">
         <div class="section-1">
-            <i class="fas fa-code fa-5x white"></i>
-            <h2>MADHAVI</h2>
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcLGUqCAP4WQLgJnSag2WSmunmjVsmZKA3ucpVg-TxuHcdDfOPxFVxrRtvSmIz6QMHTXE&usqp=CAU" alt="varunikkurti" /> </p>
+            <h2>VARUN IKKURTI</h2>
             <p>India</p>
             <a href="#"><i class="fab fa-twitter"></i></a>
             <a href="#"><i class="fab fa-linkedin"></i></a>
             <a href="#"><i class="fab fa-github"></i></a>
+            
+            <h2>Skills</h2>
+                        <p>Linux</p>
+                        <p>AWS</p>
+                        <p>Jenkins</p>
+                        <p>Ansible</p>
+                        <p>Docker</p>
+                        <p>Github</p>
+                        <p>ServiceNow</p>
+                        <p>Nagios</p>
+                        <p>Terraform</p>
+                        <p>SonarQube</p>
+                        <p>Nexus</p>
+                        <p>Kubernetes</p>
+                        <p>Cloud Watch</p>
+                        <p>Python</p>
+                        <p>Tomcat</p>
         </div>
+        
         <div class="section-2">
             <h2>About</h2>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis quas sint et nihil iusto eius nostrum sit error, repellat optio quisquam! Magnam dolore iusto cumque. Nostrum error iste neque maiores.</p>
+            <p>I would like to obtain a challenging position in IT where my technical and interpersonal skills can be utilized to benefit both me and Organization.</p> 
+            <p>I can describe myself as AWS DevOPS Engineer who is technical sound with Linux/Windows Administration, Support & Services skills.</p>  
+            <p>Also familiar with the ITIL & Incident management handling process.</p>
+            <p>Have completed several IT trainings such as Devops, Red Hat System Administration and AWS Sys Admin.</p>
             <h2>Experience</h2>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Reiciendis in maiores autem quidem.</p>
+            <p>Capgemini Aug 2018 - Present.</p>
+            <p>AWS DevOps Engineer</p>
+            <p>Solid Knowledge with Linux ( Centos, Ubuntu ) administration.</p>
+            <p>User administration and password policy management.
+            <p>Expirience with AWS including but not limited to EC2, S3, RDS, IAM and Router 53. </p>
+            <p>Good hands on knowledge of Source Code Management (Version Control System) tools like Git.</p>
+            <p>Proficient in developing Continuous Integration/ Delivery pipelines.</p>
+            <p>Good Knowledge with automation/ integration tools like Jenkins.</p>
+            <p>Knowledge of major cloud service providers, like AWS.</p>
+            <p>Deploy, manage, and maintain applications and systems deployed to AWS.</p>
+            <p>Good understanding of server monitoring systems like Prometheus.</p>
+            <p>Create and maintain automated CI/CD pipelines using Jenkins which includes managing the system and credentials. backup and restore, build agents.</p>
+            <p>Skilled in managing Kubernetes Clusters, AWS Services, AWS DevOps in Implementing CI/CD and managing the infrastructure also working on Version Control System.</p>
 
-            <h2>Skills</h2>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Reiciendis in maiores autem quidem obcaecati excepturi! Cupiditate eaque itaque magni voluptatibus neque nobis est dolor? Atque sunt minus ipsa asperiores. At.</p>
-            <h2>Projects</h2>
-            <a href="#">Project 1</a>
-            <a href="#">Project 2</a>
-            <a href="#">Project 3</a>
-            <a href="#">Project 4</a>
-            <a href="#">Project 5</a>
             <h2>Contact</h2>
-            <p>myEmail@email.com</p>
+            <p>varunikkurti@gmail.com</p>
+             <p>Phone:- 9014563704 </p>
         </div>
     </div>
 </body>
 </html>
-
