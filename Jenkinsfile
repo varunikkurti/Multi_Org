@@ -6,7 +6,7 @@ pipeline {
     stages {
         stage('GIT_SCM') {
             steps {
-                git branch: 'master', credentialsId: 'bd82295c-d2bf-4695-b3c1-75af9c5b5aef', url: 'https://github.com/varunikkurti/Multi_Org.git'
+                git branch: 'mahi', credentialsId: 'bd82295c-d2bf-4695-b3c1-75af9c5b5aef', url: 'https://github.com/varunikkurti/Multi_Org.git'
             }
         }
         stage ('BUILD_WITH_MAVEN') {
